@@ -19,7 +19,6 @@
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=gabryelmaraujo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelmaraujo&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-<hr />
 
 <br>
 <h2> Contato: </h2>
