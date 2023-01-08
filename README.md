@@ -1,8 +1,11 @@
 ### Oi mundo, eu sou o Gabryel 👋
+<div align="center" width="50">
 <p>
   Um amante da tecnologia que foi conquistado pela rápida e constante evolução da área!
   Sou um Dev. Full Stack do 🇧🇷 Brasil!
 </p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" />
+</div>
 <hr />
 <div>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -49,7 +52,10 @@
 
 <br>
 <h2> 📩 Contato: </h2>
+<div align="center" width="50">
+  <p>Prefiro que os contatos sejam feito através de conexões no Linkedin!!</p>
 <a href="https://www.linkedin.com/in/gabryelmaraujo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+</div>
 
 <hr />
 
