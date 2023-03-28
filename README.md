@@ -13,15 +13,30 @@
   <p>Peço que acessem ao meu portfólio para conhecer mais os meus projetos:</p>
   <a href="https://portfolio-gbr.vercel.app/landing">Acessar portfólio</a>
 </div>
+<hr />
+<br>
+<h2> 👨‍💻 Tenho experiências em: </h2>
 <div>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img height="20em" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="20em" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img height="20em" alt="JEST" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+<img height="20em" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img height="20em" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img height="20em" alt="PSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="20em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img height="20em" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 <br>
-
+<h2> 📂 Libs do Back End que eu mais uso:</>
+<div>
+<img height="20em" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+<img height="20em" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img height="20em" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img height="20em" alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+</div>
+<br>
+<hr />
+<br>
 <h2> 📂 Libs do React que eu mais uso:</h2>
 <div>
 <img height="20em" alt="context-api" src="https://img.shields.io/badge/Context--Api-563D7C?style=for-the-badge&logo=react&logoColor=black" />
