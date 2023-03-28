@@ -13,7 +13,6 @@
   <p>Peço que acessem ao meu portfólio para conhecer mais os meus projetos:</p>
   <a href="https://portfolio-gbr.vercel.app/landing">Acessar portfólio</a>
 </div>
-<hr />
 <br>
 <h2> 👨‍💻 Tenho experiências em: </h2>
 <div>
@@ -34,8 +33,6 @@
 <img height="20em" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img height="20em" alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
-<br>
-<hr />
 <br>
 <h2> 📂 Libs do React que eu mais uso:</h2>
 <div>
