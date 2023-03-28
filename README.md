@@ -7,6 +7,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" />
 </div>
 <hr />
+<br>
+<h2> 🖥 Portfólio: </h2>
+<div align="center" width="50">
+  <p>Peço que acessem ao meu portfólio para conhecer mais os meus projetos:</p>
+  <a href="https://portfolio-gbr.vercel.app/landing">Acessar portfólio</a>
+</div>
 <div>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
