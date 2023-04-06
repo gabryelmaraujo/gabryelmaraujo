@@ -4,7 +4,7 @@
   Um amante da tecnologia que foi conquistado pela rápida e constante evolução da área!
   Sou um Dev. Full Stack do 🇧🇷 Brasil!
 </p>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%" />
+<img src="./gabryeldev_logo.png" href="https://portfolio-gbr.vercel.app/" alt="CoDiNg RocKs"  width="20%" />
 </div>
 <hr />
 <br>
