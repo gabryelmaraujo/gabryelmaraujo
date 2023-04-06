@@ -6,7 +6,6 @@
 </p>
 <img src="./gabryeldev_logo.png" href="https://portfolio-gbr.vercel.app/" alt="CoDiNg RocKs"  width="20%" />
 </div>
-<hr />
 <br>
 <h2> 🖥 Portfólio: </h2>
 <div align="center" width="50">
